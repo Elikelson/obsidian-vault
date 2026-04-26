@@ -1,0 +1,15 @@
+{
+  "name": "disparo-whatsapp",
+  "version": "1.0.0",
+  "description": "Disparo inicial WhatsApp — farmácias Simples Nacional",
+  "main": "disparo.js",
+  "scripts": {
+    "start": "node disparo.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "csv-parse": "^5.5.0",
+    "csv-stringify": "^6.4.0"
+  }
+}
