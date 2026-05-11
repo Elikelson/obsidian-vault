@@ -35,9 +35,10 @@ Organizar e escalar para bater 7 contratos/mês e construir recorrência
 
 ## 🔗 Conexões
 
-* [[Prospecção]]
-* [[Fechamento]]
-* [[Gatilho de 7 Contratos]]
+* [[02 - NEGÓCIO/Prospecção|Prospecção]]
+* [[02 - NEGÓCIO/Fechamento|Fechamento]]
+* [[02 - NEGÓCIO/Gatilho de 7 Contratos|Gatilho de 7 Contratos]]
+* [[HOME|Voltar ao Home]]
 
 ## 📌 Regra
 
