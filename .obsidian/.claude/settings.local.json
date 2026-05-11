@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:furtadoguerini.com.br)",
+      "WebFetch(domain:blog.econeteditora.com.br)",
+      "WebFetch(domain:www.contabeis.com.br)"
+    ]
+  }
+}

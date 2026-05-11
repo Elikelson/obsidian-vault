@@ -31,10 +31,14 @@
             "id": "65e07ac02629ea7d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "00 - SISTEMA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - SISTEMA"
             }
           }
         ]
@@ -110,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "00 - SISTEMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Bem-vindo"
+              "title": "Links inversos para 00 - SISTEMA"
             }
           },
           {
@@ -185,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,9 +202,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9eddb6ce1cd69d5f",
+  "active": "65e07ac02629ea7d",
   "lastOpenFiles": [
+    "Fechamento.md",
+    "Bem-vindo.md",
     "crie um link.md",
-    "Bem-vindo.md"
+    "2026-04-26-automacao-disparo-whatsapp.md",
+    "2026-04-26-7-contratos-foco-imediato.md",
+    "Prospecção.md",
+    "00 - SISTEMA.md"
   ]
 }
